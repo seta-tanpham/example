@@ -1,0 +1,1 @@
+process.stdout.write(`create table ${123} success ${123}`);
